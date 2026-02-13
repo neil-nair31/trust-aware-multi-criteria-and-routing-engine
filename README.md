@@ -1,6 +1,6 @@
-##Trust Aware Multi Criteria Routing Engine (C++)
+## Trust Aware Multi Criteria Routing Engine (C++)
 
-##Overview
+## Overview
 This project implements a trust aware shortest path finding engine in C++ using classical Data Structures and Algorithms Concepts.
 
 It extends Dijkstras algorithm to support:
